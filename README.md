@@ -1,4 +1,9 @@
-# Added-Custom-Payment-Icon-on-Woocommerce
+# Added Custom Payment Icon on Woocommerce
+
+## Location:
+```
+functions.php
+```
 
 ```
 // Payment Methord Custom LOGO START
